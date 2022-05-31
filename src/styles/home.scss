@@ -16,7 +16,8 @@ hr {
   width: 50px;
 }
 ul {
-  list-style-position: inside;
+  list-style-position: none;
+  margin-left: -75px;
 }
 img[alt="Arch Linux Logo"] {
   display: inline;

@@ -47,47 +47,47 @@
     <br/>
     Still discovering my own interests and learning a lot of skills.
     <br/>
-    Keep envolving, learning and growing.
+    Keep evolving, learning and growing.
   </p>
   <h2>Skills</h2>
   <p>
     <ul>
-      <li>
+      <ol>
         <font-awesome-icon :icon="['fab', 'html5']" size="lg"/>&nbsp;HTML5 & CSS3
-      </li>
-      <li>
+      </ol>
+      <ol>
         <font-awesome-icon :icon="['fab', 'js']" size="lg"/>&nbsp;JavaScript & TypeScript
-      </li>
-      <li>
+      </ol>
+      <ol>
         <font-awesome-icon :icon="['fab', 'php']" size="lg"/>&nbsp;PHP
-      </li>
-      <li>
+      </ol>
+      <ol>
         <font-awesome-icon :icon="['fab', 'yarn']" size="lg"/>&nbsp;Yarn (Node.js package manager)
-      </li>
-      <li>
+      </ol>
+      <ol>
         <font-awesome-icon :icon="['fab', 'golang']" size="lg"/>&nbsp;Golang
-      </li>
-      <li>
+      </ol>
+      <ol>
         <font-awesome-icon :icon="['fab', 'git-alt']" size="lg"/>&nbsp;Git
-      </li>
-      <li>
+      </ol>
+      <ol>
         <font-awesome-icon :icon="['fas', 'code-branch']" size="lg"/>&nbsp;GitHub Actions CI/CD
-      </li>
+      </ol>
     </ul>
   </p>
   <h2>Devices</h2>
   <p>
     <ul>
-      <li>
+      <ol>
         <font-awesome-icon :icon="['fab', 'apple']" size="lg"/>&nbsp;Apple iPhone 8
-      </li>
-      <li>
+      </ol>
+      <ol>
         <font-awesome-icon :icon="['fas', 'laptop']" size="lg"/>&nbsp;Acer TravelMate P455 w/
         <img src="@/assets/arch.svg" alt="Arch Linux Logo"/>Arch Linux
-      </li>
-      <li>
+      </ol>
+      <ol>
         <font-awesome-icon :icon="['fas', 'wifi']" size="lg"/>&nbsp;Redmi AC2100 Router
-      </li>
+      </ol>
     </ul>
   </p>
   <h2>Verify ME</h2>
