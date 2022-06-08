@@ -79,7 +79,7 @@
   <p>
     <ul>
       <ol>
-        <font-awesome-icon :icon="['fab', 'apple']" size="lg"/>&nbsp;Apple iPhone 8
+        <font-awesome-icon :icon="['fab', 'google']" size="lg"/>&nbsp;Google Pixel 4
       </ol>
       <ol>
         <font-awesome-icon :icon="['fas', 'laptop']" size="lg"/>&nbsp;Acer TravelMate P455 w/
@@ -92,13 +92,13 @@
   </p>
   <h2>Verify ME</h2>
   <p>
-    You are visitin' this page, that means you trust me.
+    You are visiting this page, that means you trust me.
     <br/>
     But if you don't? I can provide my GnuPG public key for you to verify me.
     <br/>
     Use command
     <code>curl https://cdn.jsdelivr.net/gh/kuohuanhuan/cdn@master/publicGPG.asc | gpg --import</code>
-    to import it.
+    to import it to your keyring.
   </p>
 </template>
 

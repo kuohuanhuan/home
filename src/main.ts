@@ -11,13 +11,13 @@ import {
 } from '@fortawesome/free-solid-svg-icons'
 import {
   faGithub, faTelegram, faTwitter, faStackOverflow,
-  faHtml5, faJs, faVuejs, faPhp, faYarn, faGolang, faGitAlt, faApple
+  faHtml5, faJs, faVuejs, faPhp, faYarn, faGolang, faGitAlt, faGoogle
 } from '@fortawesome/free-brands-svg-icons'
 library.add(
   faCopyright, faHeart, faEnvelope, faPenClip, faCodeBranch,
   faTwitter, faGithub, faTelegram, faStackOverflow,
   faHtml5, faJs, faVuejs, faPhp, faYarn, faGolang, faGitAlt,
-  faApple, faLaptop, faWifi
+  faGoogle, faLaptop, faWifi
 )
 
 const app: Application = createApp(App);
