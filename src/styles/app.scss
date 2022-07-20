@@ -3,7 +3,7 @@
 /* Normalize.CSS*/
 @import url('normalize.css/normalize.css');
 /* Import Google Fonts for all-page wide*/
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Work+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,500&family=Jost:wght@400;600&display=swap');
 
 /* Unique bg color*/
 body {
@@ -15,7 +15,7 @@ body {
   width: 100%;
   color: #2c3e50;
   margin-top: 50px;
-  font-family: 'Work Sans', sans-serif;
+  font-family: Jost, sans-serif;
   text-align: center !important;
 }
 p {
