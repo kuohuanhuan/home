@@ -34,10 +34,9 @@
     />
   </section>
   <hr/>
-  <!-- TODO: Intro-->
   <h2>About me</h2>
   <p>
-    I'm KuoHuanHuan, a Junior High student lives in 🇹🇼Taiwan.
+    I'm KuoHuanHuan, a Junior High student lives in <span class="twicon-td-flag"></span>Taiwan.
     <br/>
     Also known as "KHH".
     <br/>

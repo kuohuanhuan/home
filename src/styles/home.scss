@@ -15,6 +15,12 @@ hr {
   margin: auto;
   width: 50px;
 }
+span::before {
+  vertical-align: middle;
+  line-height: 20px;
+  font-size: 175%;
+  color: #1b9431;
+}
 ul {
   list-style-position: none;
   margin-left: -75px;
